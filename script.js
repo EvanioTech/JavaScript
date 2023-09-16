@@ -1,1 +1,3 @@
-alert('ola mundo')
+var a;
+a = "cell";
+console.log (a)
